@@ -1,0 +1,12 @@
+.container{
+  position: relative;
+  align-content: center;
+  width: 1100px;
+  margin: auto;
+  color:aliceblue;
+    }
+.center{
+  position: absolute;
+  top: 50%;
+  text-align: justify;
+  }
